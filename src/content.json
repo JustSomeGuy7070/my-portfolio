@@ -1,0 +1,541 @@
+{
+  "general": {
+    "first_name": "Godwin",
+    "middle_name": "Luke",
+    "last_name": "Syce",
+    "navbar_social_links": {
+      "github": "https://github.com/JustSomeGuy7070",
+      "resume": "/resume",
+      "linkedin": "https://www.linkedin.com/in/godwin-syce-773919261",
+      "email": "https://mail.google.com/mail/u/0/?view=cm&fs=1&to=sycegodwin@gmail.com&su=Hello%20Godwin&body=Hi%20Godwin,%20I%20found%20your%20contact%20information%20on%20your%20website.%20I%20would%20like%20to%20get%20in%20touch%20with%20you.%20Thanks!"
+    }
+  },
+  "repo_stats": {
+    "section": {
+      "enable_section": true
+    },
+    "repo_link": "https://github.com/JustSomeGuy7070",
+    "api_link": "https://api.github.com/users/JustSomeGuy7070"
+  },
+  "intro_screen": {
+    "section": {
+      "enable_section": true
+    },
+    "main_header": "Hello, Godwin here.",
+    "main_subtitle": "Healthcare Professional Turned Full-Stack Developer. 🚀",
+    "intro_bio": [
+      "I'm a self-taught full-stack developer,",
+      "focused on building modern, full-stack applications,",
+      "with a focus on performance, user experience, and real-world problem solving.",
+      "Currently open to freelance projects and junior developer opportunities."
+    ],
+    "email_button": "Let's work together!"
+  },
+  "about_me": {
+    "section": {
+      "enable_section": true,
+      "title": "~/About",
+      "navbar_name": "/About",
+      "description": "Brief information about me and some of my interests."
+    },
+    "headShotUrl": "/assets/portrait.jpg",
+    "bio": [
+      "I'm a passionate, self-taught software developer with a strong focus on full-stack development. I thrive on creating efficient, scalable solutions while leveraging existing technologies, to provide seamless user experiences. With a keen eye for design and performance, I am dedicated to delivering high-quality solutions that meet the needs of users. I'm currently open to freelance projects and junior developer opportunities, eager to contribute my skills and grow in the field.",
+      "After completing my degree in Radiography and working in healthcare environments, I became increasingly interested in solving workflow and efficiency problems through software. That curiosity eventually led me into full-stack development, where I now build applications focused on usability, performance, and real-world impact."
+    ],
+    "skills_caption": "Some technologies I've worked with:",
+    "skills": [
+      {
+        "group": "Frontend",
+        "items": ["React.js", "JavaScript ES6+", "HTML & CSS", "jQuery"]
+      },
+      {
+        "group": "Backend",
+        "items": ["Node.js", "Express.js", "EJS"]
+      },
+      {
+        "group": "Databases",
+        "items": ["SQL", "PostgreSQL"]
+      },
+      {
+        "group": "Tools & Platforms",
+        "items": ["Git & GitHub", "Sitebuilders (Sitejet, Wix, etc.)"]
+      }
+    ]
+  },
+  "academics": {
+    "section": {
+      "enable_section": false,
+      "title": "~/Education",
+      "navbar_name": "/Academics",
+      "description": "Courses that I have completed or am on track to complete. Current GPA: 3.24"
+    },
+    "general": {
+      "school": "St. Mary's University",
+      "degree": "Bachelor of Science in Computer Science",
+      "start_year": 2021,
+      "end_year": 2025
+    },
+    "years": [
+      {
+        "year": 2021,
+        "semester": "Fall",
+        "courses": [
+          {
+            "abbreviation": "CS 1310",
+            "name": "C Programming I",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "MT 1411",
+            "name": "Pre Calculus",
+            "credits": 4.0
+          },
+          {
+            "abbreviation": "EN 1311",
+            "name": "Rhetoric and Composition",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "PL 1301",
+            "name": "Introduction to Philosophy",
+            "credits": 3.0
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "semester": "Spring",
+        "courses": [
+          {
+            "abbreviation": "CS102",
+            "name": "C Programming II",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "CS 3300",
+            "name": "Intro to Data Analytics Python Programming I",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "MT 2412",
+            "name": "Calculus I",
+            "credits": 4.0
+          },
+          {
+            "abbreviation": "FYE 1301",
+            "name": "First Year Seminar",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "MT 2412",
+            "name": "Multicultural American Lit",
+            "credits": 3.0
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "semester": "Fall",
+        "courses": [
+          {
+            "abbreviation": "CS 2315",
+            "name": "Algorithms and Data Structure",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "CS 2313",
+            "name": "Object Oriented Programming I",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "CS 2110",
+            "name": "Sophomore CS Seminar",
+            "credits": 1.0
+          },
+          {
+            "abbreviation": "CM 1341",
+            "name": "Intro to Human Communication",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "AR 1300",
+            "name": "Concepts in Visual Arts",
+            "credits": 3.0
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "semester": "Spring",
+        "courses": [
+          {
+            "abbreviation": "CS 2350",
+            "name": "Computer Architecture",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "CS 2323",
+            "name": "Object Oritented Programming II",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "CS 4375",
+            "name": "Advanced Topics (Python Data Analytics)",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "MT 2323",
+            "name": "Discrete Math Structures",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "TH 1301",
+            "name": "Introduction to Thelogy",
+            "credits": 3.0
+          },
+          {
+            "abbreviation": "AC 2301",
+            "name": "Financial Accounting",
+            "credits": 3.0
+          }
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "section": {
+      "enable_section": true,
+      "title": "~/Experience",
+      "navbar_name": "/Experience",
+      "description": "My current/past relevant experience. Click [here](/resume) to view my resume."
+    },
+    "experience_items": [
+      {
+        "organization": "Independent Client Work",
+        "title": "Full-Stack Developer",
+        "start_date": "2024",
+        "end_date": "Present",
+        "description": [
+          "Built and modified client-facing web applications, including medical form workflows designed to improve usability, accuracy, and day-to-day administrative efficiency.",
+          "Improved image-processing and form-handling workflows by identifying friction points, refining interfaces, and adjusting application behavior around real user needs.",
+          "Rebuilt and extended a minified application by tracing existing behavior, debugging compressed code, and reconstructing maintainable functionality from limited source visibility.",
+          "Communicated directly with clients to gather requirements, explain trade-offs, iterate on UI improvements, and deliver practical changes in response to feedback."
+        ]
+      },
+      {
+        "organization": "Private & Public Healthcare Facilities",
+        "title": "Diagnostic Radiographer",
+        "start_date": "Clinical / Professional Experience",
+        "end_date": "Healthcare",
+        "description": [
+          "Worked in high-responsibility clinical environments where accuracy, communication, and calm decision-making were essential to supporting patient care.",
+          "Collaborated with patients and healthcare teams to navigate imaging workflows, reduce friction during procedures, and keep processes moving efficiently.",
+          "Developed strong problem-solving habits by adapting to changing clinical scenarios, technical constraints, and time-sensitive operational needs.",
+          "Gained first-hand exposure to medical imaging systems, healthcare documentation processes, and the workflow challenges that software can help improve."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "section": {
+      "enable_section": true,
+      "title": "~/Projects",
+      "navbar_name": "/Projects",
+      "description": "Some of my most recent or past favorite creations or work. Go to my github for more projects and repositories."
+    },
+    "pinned_repositories": [
+      "blogit-app",
+      "family-travel-tracker",
+      "qr-code-generator",
+      "clinical-form-template",
+      "the-permalist",
+      "secrets"
+    ],
+    "project_items": [
+      {
+        "project_name": "Blogit App",
+        "description": "A full-stack blog application with a separated Express API backend and EJS frontend for creating, editing, deleting, and viewing posts.",
+        "resources_used": ["Node.js", "Express.js", "EJS", "Axios", "JavaScript"],
+        "start_date": "GitHub",
+        "end_date": "Repository",
+        "live_url": "https://blogit-app-1.onrender.com",
+        "links": [
+          {
+            "href": "https://blogit-app-1.onrender.com",
+            "icon": "FiExternalLink",
+            "data_tooltip": "View Live Project"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/blogit-app",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/blogit-app/archive/refs/heads/main.zip",
+            "icon": "FaDownload",
+            "data_tooltip": "Download Project"
+          }
+        ]
+      },
+      {
+        "project_name": "Permalist",
+        "description": "A persistent full-stack todo list that uses Express, EJS, and PostgreSQL to manage tasks, categories, completion status, and due dates.",
+        "resources_used": ["Node.js", "Express.js", "EJS", "PostgreSQL", "JavaScript"],
+        "start_date": "GitHub",
+        "end_date": "Repository",
+        "live_url": "https://the-permalist.onrender.com",
+        "links": [
+          {
+            "href": "https://the-permalist.onrender.com",
+            "icon": "FiExternalLink",
+            "data_tooltip": "View Live Project"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/the-permalist",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/the-permalist/archive/refs/heads/main.zip",
+            "icon": "FaDownload",
+            "data_tooltip": "Download Project"
+          }
+        ]
+      },
+      {
+        "project_name": "Family Travel Tracker",
+        "description": "A full-stack travel tracker where family members can record visited countries and see them highlighted on an interactive world map.",
+        "resources_used": ["Node.js", "Express.js", "EJS", "PostgreSQL", "JavaScript"],
+        "start_date": "GitHub",
+        "end_date": "Repository",
+        "live_url": "https://family-travel-tracker-pigf.onrender.com",
+        "links": [
+          {
+            "href": "https://family-travel-tracker-pigf.onrender.com",
+            "icon": "FiExternalLink",
+            "data_tooltip": "View Live Project"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/family-travel-tracker",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/family-travel-tracker/archive/refs/heads/main.zip",
+            "icon": "FaDownload",
+            "data_tooltip": "Download Project"
+          }
+        ]
+      },
+      {
+        "project_name": "Medical Form App",
+        "description": "A browser-based clinical forms template for referral and invoice workflows, with printable layouts and reusable form controls.",
+        "resources_used": ["React.js", "JavaScript", "HTML", "CSS"],
+        "start_date": "GitHub",
+        "end_date": "Repository",
+        "live_url": "https://clinical-form-template.onrender.com",
+        "links": [
+          {
+            "href": "https://clinical-form-template.onrender.com",
+            "icon": "FiExternalLink",
+            "data_tooltip": "View Live Project"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/clinical-form-template",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/clinical-form-template/archive/refs/heads/main.zip",
+            "icon": "FaDownload",
+            "data_tooltip": "Download Project"
+          }
+        ]
+      },
+      {
+        "project_name": "QR Code Generator",
+        "description": "A small utility project for generating QR codes from user-provided text or URLs.",
+        "resources_used": ["JavaScript", "Node.js"],
+        "start_date": "GitHub",
+        "end_date": "Repository",
+        "live_url": "https://JustSomeGuy7070.github.io/qr-code-generator/web-app/",
+        "links": [
+          {
+            "href": "https://JustSomeGuy7070.github.io/qr-code-generator/web-app/",
+            "icon": "FiExternalLink",
+            "data_tooltip": "View Live Project"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/qr-code-generator",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/qr-code-generator/archive/refs/heads/main.zip",
+            "icon": "FaDownload",
+            "data_tooltip": "Download Project"
+          }
+        ]
+      },
+      {
+        "project_name": "Keeper App",
+        "description": "A note-taking app for creating and managing quick notes in a clean React-style interface.",
+        "resources_used": ["React.js", "JavaScript", "HTML", "CSS"],
+        "start_date": "GitHub",
+        "end_date": "Repository",
+        "live_url": "https://keeper-app-74cz.onrender.com",
+        "links": [
+          {
+            "href": "https://keeper-app-74cz.onrender.com",
+            "icon": "FiExternalLink",
+            "data_tooltip": "View Live Project"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/keeper-app",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/keeper-app/archive/refs/heads/main.zip",
+            "icon": "FaDownload",
+            "data_tooltip": "Download Project"
+          }
+        ]
+      },
+      {
+        "project_name": "Secrets",
+        "description": "An authentication-focused app with register, login, logout, and protected secret submission flows.",
+        "resources_used": ["Node.js", "Express.js", "EJS", "PostgreSQL", "Authentication"],
+        "start_date": "GitHub",
+        "end_date": "Repository",
+        "live_url": "https://secrets-1vfm.onrender.com",
+        "links": [
+          {
+            "href": "https://secrets-1vfm.onrender.com",
+            "icon": "FiExternalLink",
+            "data_tooltip": "View Live Project"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/secrets",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/secrets/archive/refs/heads/main.zip",
+            "icon": "FaDownload",
+            "data_tooltip": "Download Project"
+          }
+        ]
+      },
+      {
+        "project_name": "Band Generator",
+        "description": "A playful Express and EJS app that generates random band names.",
+        "resources_used": ["Node.js", "Express.js", "EJS", "JavaScript"],
+        "start_date": "GitHub",
+        "end_date": "Repository",
+        "live_url": "https://band-gen.onrender.com",
+        "links": [
+          {
+            "href": "https://band-gen.onrender.com",
+            "icon": "FiExternalLink",
+            "data_tooltip": "View Live Project"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/band-gen",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/band-gen/archive/refs/heads/main.zip",
+            "icon": "FaDownload",
+            "data_tooltip": "Download Project"
+          }
+        ]
+      },
+      {
+        "project_name": "Dice Game",
+        "description": "A browser game that rolls dice and displays the winner.",
+        "resources_used": ["JavaScript", "HTML", "CSS"],
+        "start_date": "GitHub",
+        "end_date": "Repository",
+        "live_url": "https://JustSomeGuy7070.github.io/dice-game/",
+        "links": [
+          {
+            "href": "https://JustSomeGuy7070.github.io/dice-game/",
+            "icon": "FiExternalLink",
+            "data_tooltip": "View Live Project"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/dice-game",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/dice-game/archive/refs/heads/main.zip",
+            "icon": "FaDownload",
+            "data_tooltip": "Download Project"
+          }
+        ]
+      },
+      {
+        "project_name": "Simon's Game",
+        "description": "A memory pattern game built with front-end JavaScript.",
+        "resources_used": ["JavaScript", "HTML", "CSS"],
+        "start_date": "GitHub",
+        "end_date": "Repository",
+        "live_url": "https://JustSomeGuy7070.github.io/simons-game",
+        "links": [
+          {
+            "href": "https://JustSomeGuy7070.github.io/simons-game",
+            "icon": "FiExternalLink",
+            "data_tooltip": "View Live Project"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/simons-game",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/simons-game/archive/refs/heads/main.zip",
+            "icon": "FaDownload",
+            "data_tooltip": "Download Project"
+          }
+        ]
+      },
+      {
+        "project_name": "Drum Kit",
+        "description": "An interactive drum kit that plays sounds from keyboard or button input.",
+        "resources_used": ["JavaScript", "HTML", "CSS"],
+        "start_date": "GitHub",
+        "end_date": "Repository",
+        "live_url": "https://JustSomeGuy7070.github.io/drum-kit/",
+        "links": [
+          {
+            "href": "https://JustSomeGuy7070.github.io/drum-kit/",
+            "icon": "FiExternalLink",
+            "data_tooltip": "View Live Project"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/drum-kit",
+            "icon": "FaGithub",
+            "data_tooltip": "Visit GitHub Repo"
+          },
+          {
+            "href": "https://github.com/JustSomeGuy7070/drum-kit/archive/refs/heads/main.zip",
+            "icon": "FaDownload",
+            "data_tooltip": "Download Project"
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "line_one": "Built & designed by",
+    "copyright_line": "All rights reserved."
+  },
+  "error_page": {
+    "title": "Error 404",
+    "description": "The page you are looking for does not exist. Chose one of the following links to continue."
+  }
+}
