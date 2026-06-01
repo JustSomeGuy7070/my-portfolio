@@ -5,9 +5,9 @@
     "last_name": "Syce",
     "navbar_social_links": {
       "github": "https://github.com/JustSomeGuy7070",
-      "resume": "/resume",
+      "resume": "/Resume.pdf",
       "linkedin": "https://www.linkedin.com/in/godwin-syce-773919261",
-      "email": "https://mail.google.com/mail/u/0/?view=cm&fs=1&to=sycegodwin@gmail.com&su=Hello%20Godwin&body=Hi%20Godwin,%20I%20found%20your%20contact%20information%20on%20your%20website.%20I%20would%20like%20to%20get%20in%20touch%20with%20you.%20Thanks!"
+      "email": "https://mail.google.com/mail/?view=cm&fs=1&to=sycegodwin%40gmail.com&su=Hello+Godwin&body=Hi+Godwin%2C+I+found+your+contact+information+on+your+website.+I+would+like+to+get+in+touch+with+you.+Thanks%21"
     }
   },
   "repo_stats": {
@@ -208,7 +208,7 @@
       "enable_section": true,
       "title": "~/Experience",
       "navbar_name": "/Experience",
-      "description": "My current/past relevant experience. Click [here](/resume) to view my resume."
+      "description": "My current/past relevant experience. Click [here](/Resume.pdf) to view my resume."
     },
     "experience_items": [
       {
@@ -242,7 +242,7 @@
       "enable_section": true,
       "title": "~/Projects",
       "navbar_name": "/Projects",
-      "description": "Some of my most recent or past favorite creations or work. Go to my github for more projects and repositories."
+      "description": "Some of my most recent or past favorite creations or work. Go to my [github](https://github.com/JustSomeGuy7070) for more projects and repositories."
     },
     "pinned_repositories": [
       "blogit-app",

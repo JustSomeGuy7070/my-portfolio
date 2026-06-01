@@ -38,7 +38,12 @@ const Intro = () => {
   const introContent = contentData.intro_screen;
   const generalContent = contentData.general;
   const emailLink = generalContent.navbar_social_links.email;
-  const contactHref = emailLink?.startsWith("http") ? emailLink : `mailto:${emailLink}`;
+  const contactHref = emailLink
+    ? emailLink.startsWith("http")
+      ? emailLink
+      : `mailto:${emailLink}`
+    : "#";
+  const opensNewTab = contactHref.startsWith("http");
 
   const introBio = introContent.intro_bio.map((paragraph) => {
     return <p key={paragraph}>{paragraph}</p>;
@@ -60,7 +65,11 @@ const Intro = () => {
             </Fade>
             <Fade direction="up" triggerOnce={true}>
               <h3>
-                <a href={contactHref}>
+                <a
+                  href={contactHref}
+                  target={opensNewTab ? "_blank" : undefined}
+                  rel={opensNewTab ? "noreferrer" : undefined}
+                >
                   <FaComment /> {introContent.email_button}
                 </a>
               </h3>

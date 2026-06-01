@@ -43,7 +43,7 @@ const Linkbar = () => {
     },
     {
       icon: FaFileAlt,
-      href: general.navbar_social_links.resume, // will open to "/resume"
+      href: general.navbar_social_links.resume,
       target: "_blank",
       rel: "noreferrer",
     },

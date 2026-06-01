@@ -3,6 +3,7 @@ import contentData from "../content.json";
 import { FaGithub, FaDownload } from "react-icons/fa";
 import { FiExternalLink, FiFolder } from "react-icons/fi";
 import { Fade } from "react-awesome-reveal";
+import ReactMarkdown from "react-markdown";
 
 const getGitHubUsername = () => {
   const githubUrl = contentData.general.navbar_social_links.github;
@@ -399,9 +400,11 @@ const Projects = () => {
                   {contentData.projects.section.title}
                   <div className="line-mf"></div>
                 </h3>
-                <p className="subtitle-a">
-                  {contentData.projects.section.description}
-                </p>
+                <div className="subtitle-a">
+                  <ReactMarkdown>
+                    {contentData.projects.section.description}
+                  </ReactMarkdown>
+                </div>
               </div>
             </Fade>
           </div>
